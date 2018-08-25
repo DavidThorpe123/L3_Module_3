@@ -10,7 +10,7 @@ public class LosAngeles extends City {
 	@Override
 	double getAnnualTaxes() {
 		// TODO Auto-generated method stub
-		double tax = population * (growthRate / 2);
+		double tax = 
 		return tax;
 	}
 
